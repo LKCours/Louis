@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Best UI KIT in the world!">
+  <link rel="stylesheet" href="CSS/style.css">
+  <title>Vintage Cars</title>
+</head>
+
+<body>
+
+<div class="header">
+    <a href="#">About us</a>
+    <a href="#">Our products</a>
+    <a href="#">Delivery information</a>
+    <a href="#">My order</a>
+    <a href="#">Contact us</a>
+  </div>
+  
+  <div class="banner">
+      <h1>Vintage cars</h1>
+      <p>Find your old sport car on our website</p>
+      <a href="https://www.youtube.com/watch?v=Ixh9e6dZlbc&t=220s&ab_channel=automotomagazine" target="_blank" class="btn-pink">Review of our Ferrari</a>
+
+  </div>
+
+<div class="container">
+
+    <h2>Our Cars</h2>
+    <img src="images/autoclass.jpg" alt="photo wallet" class="avatar-round">
+
+    <h2>Cars Grid</h2>
+
+    <div class="card-grid">
+
+         <div class="card-white">
+            <img src="images/Datsun.jpg" alt="photo wallet1">
+         <div class="card-content">
+            <p>Datsun 280z</p>
+            <p>Price: 40 000€</p>
+         </div>
+         </div>
+
+         <div class="card-white">
+             <img src="images/Diablo.jpg" alt="photo wallet2">
+         <div class="card-content">
+             <p>Lamborghini Diablo</p>
+             <p>Price: 220 000€</p>
+          </div>
+          </div>
+
+          <div class="card-white">
+             <img src="images/f40.jpg" alt="photo wallet3">
+          <div class="card-content">
+            <p>Ferrari f40</p>
+            <p>Price: 450 000€</p>
+          </div>
+          </div>
+
+          <div class="card-white">
+            <img src="images/Jaguar.jpg" alt="photo wallet4">
+          <div class="card-content">
+            <p>Jaguar Type-e</p>
+            <p>Price: 320 000€</p>
+          </div>
+          </div>
+
+          <div class="card-white">
+            <img src="images/Singer.jpg" alt="photo wallet5">
+          <div class="card-content">
+            <p>Porsche 911 Singer</p>
+            <p>Price: 500 000€</p>
+          </div>
+          </div>
+
+          <div class="card-white">
+            <img src="images/testarossa.jpg" alt="photo wallet4">
+          <div class="card-content">
+            <p>Ferrari Testarossa</p>
+            <p>Price: 470 000€</p>
+          </div>
+          </div>
+    </div>
+</div>
+
+</body>
+
+</html>
